@@ -39,5 +39,46 @@ To select a function, simply enter the corresponding number and press Enter.
       match
       There is no common base.
 
-**2.	**Find the closest word: ****
+**2.	Find the closest word: **
+
+     **Normal Operation: **
+    Let's find a word that is most like the word you enter...
+    Enter a word (Press 'Esc' to exit):
+    berry
+    Would you like to compare "berry" to:
+     (1) use a pre-loaded dictionary, or
+     (2) enter your own list of strings?
+     Enter 1 or 2 (3 to exit):
+    1
+    comparing: apple
+    comparing: banana
+    comparing: blueberry
+    comparing: cherry
+    comparing: date
+    comparing: elderberry
+    comparing: fig
+    comparing: grape
+    comparing: honeydew
+    comparing: jackfruit
+    comparing: kiwi
+    comparing: lemon
+    comparing: mango
+    comparing: nectarine
+    comparing: orange
+    comparing: papaya
+    comparing: quince
+    comparing: raspberry
+    comparing: strawberry
+    comparing: tangerine
+    comparing: vanilla
+    comparing: watermelon
+    comparing: yellow watermelon
+    comparing: zucchini
+    The word that is most like "berry" is: cherry
+
+    It possible to test agaist and existing set of words or input a custom list. 
+    The algorithm used measures the "edit distance," or how many edits(insertions, deletions, or substitution Function to calculate similarity. 
+    Known as the Levenshtein distance abd was a recomendation by from ChatGPT. 
+
+    
     
