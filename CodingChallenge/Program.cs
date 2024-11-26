@@ -124,7 +124,7 @@ namespace CodingChallenge
                 {                    
                     Console.Clear();
                     Console.WriteLine("Let's find a word that is most like the word you enter...");
-                    Console.WriteLine("Enter a word (Press 'Esc' to exit):");
+                    Console.WriteLine("Enter a word:");
 
                     string wordToCompare = Console.ReadLine();
 
