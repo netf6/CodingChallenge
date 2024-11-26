@@ -99,6 +99,9 @@ To select a function, simply enter the corresponding number and press Enter.
     Let's find the instantaneous speed of a vehicle...
     PointsInTime.xml contains a list of predefined points
     Enter a count in seconds from when the vehicle set off: (eg 30)
+    72
+    atTime: 1732595511 (2024-11-26 04:31:51:000)
+    The instantaneous speed of the vehicle is: 0.0235702260395516 units/s
 
     **Boundary Conditions**
     - Entering a time before the earlieset PointInTime (a negative number)
