@@ -1,6 +1,6 @@
 # CodingChallenge
 
-Run as a .Net Console App. 
+Run as a .Net Console App. Written in C# in Visual Sudio Community 2022 - Preview. Enhanced with GitHub Copilot.
 
 **Main Menu**
 When you start the application, you will be presented with the following options:
@@ -115,4 +115,6 @@ To select a function, simply enter the corresponding number and press Enter.
     54654
     atTime: 1732650093 (2024-11-26 19:41:33:000)
     Time entered is after the last arrival point.
+
+
     
