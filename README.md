@@ -80,9 +80,8 @@ To select a function, simply enter the corresponding number and press Enter.
     comparing: yellow watermelon
     comparing: zucchini
     The word that is most like "berry" is: cherry 
-    
-**3.	Find instantaneous speed of a vehicle:**
 
+**2. Find instantaneous speed of a vehicle **
     Predefined points loaded from a configurable xml document. 
     The time offset is inputed and is added to the time of the first predefeined point.
     We then loop trough the predefined points and check if the time offset falls between the current point and the next.
